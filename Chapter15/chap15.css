@@ -1,0 +1,16 @@
+body {
+    font-family: "courier";
+}
+
+h1 {
+    color: rgb(2, 121, 2);
+}
+
+#buttonBox {
+    margin-top: 30px;
+}
+
+#thingToDo {
+    margin-top: 20px;
+    background-color: #dadada;
+}
