@@ -1,0 +1,17 @@
+body {
+    font-family: arial;
+}
+#instructions {
+    background-color: pink;
+    padding: 6px;
+    margin: 6px;
+}
+#orderPadge {
+    width: 75%;
+    margin: 20px auto;
+}
+#receipt {
+    background-color: powderblue;
+    color: yellow;
+    padding: 6px;
+}
